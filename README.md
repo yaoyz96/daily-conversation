@@ -279,6 +279,27 @@ B: Finally, they put me on a Star Airlines flight for New York, but I had to wai
 A: You must be jet-lagged. Let's go to the coffee shop next door and get you a cup of coffee.  
 B: Sounds good. I sure need it.  
 
+## 登机报道[16]
+
+* check-in 登机报道
+* baggage 行李
+* scale 磅秤
+* boarding pass 登记证
+* security check 安检
+
+A: I would like to check-in, please.  
+B: Could you give me your passport?  
+A: Sure. Here it is.  
+B: Where are you flying to today?  
+A: London.  
+B: How many pieces of baggage would you like to check-in?  
+A: Two pieces.  
+B: Please put the baggage on the scale. Here is your boarding pass.  
+A: Thank you.  
+B: The boarding time is 9:30 pm, Gate 31. Please make sure your baggage passes the security check down there before you leave.  
+A: OK. Thank you.  
+B: Have a nice flight.  
+
 
 # 事务
 
