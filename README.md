@@ -174,6 +174,26 @@ B: Nice. If you find some interesting new channels, let me know.
 A: OK!  
 
 
+## 登山踏青[17]
+
+* club 俱乐部
+* skill levels 技能水平
+* day hike 当日健行
+* multi-day hike 多日健行
+
+A: Hey Carol, what are you doing this weekend?  
+B: I’m going hiking with my husband and our hiking club.  
+A: You have a hiking club?  
+B: Yes, we do. We have 30 to 40 people of all ages and skill levels.  
+A: That’s great. Do you guys do day hikes or multi-day hikes?  
+B: Mostly day hikes, but we do five or six multi-day hikes a year.  
+A: Do you hike around the island or do you go overseas too?  
+B: So far, our hikes are around the island. Next year, we will do our first overseas hiking trip by doing a one-week hiking trip to Nepal.  
+A: That sounds fun. I would love to join your hiking club.  
+B: Sure, join us! I’ll send you our Facebook page and you’ll see all our upcoming activities there.  
+A: OK. Thanks!  
+
+
 # 天气
 
 ## 暴风雨[5]
