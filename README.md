@@ -194,7 +194,7 @@ B: Sure, join us! I’ll send you our Facebook page and you’ll see all our upc
 A: OK. Thanks!  
 
 
-# 天气
+# 自然
 
 ## 暴风雨[5]
 
@@ -214,6 +214,26 @@ A: We're about the same size. Let me get you a shirt and pants to change into.
 B: You're a lifesaver. Thanks!  
 A: No worries, I'm happy to help. Make sure to check the weather forecast next time.  
 B: I will, and I will definitely keep extra clothes in the office.  
+
+
+## 地震[18]
+
+* earthquake 地震
+* Richter scale 里氏震级
+* epicenter 震中心
+* aftershock 余震
+* collapse 倒塌
+* aftershock 余震
+
+A: Did you feel the earthquake last night?  
+B: Yes, it was big one. I was sitting on the couch watching TV and the couch started to shake. What were you doing?  
+A: I was taking a shower. I wrapped myself in a towel and ran out of the bathroom.  
+B: That must have been scary!  
+A: For sure. I checked the news. The government said the earthquake was 4.9 on the Richter scale, and its epicenter was off the coast of Hualien.  
+B: Wow, that’s a big one! I’m glad nobody got hurt and no buildings collapsed.  
+A: Me too.  
+B: Oh my! Do you feel that?  
+A: This must be an aftershock. Stay calm and let’s get outside.  
 
 
 # 购物
