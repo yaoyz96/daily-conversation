@@ -52,6 +52,29 @@ B: OK. Reservation made for four people for Sunday, June 10, at 7 pm. We will ho
 A: OK. Thank you. Bye.  
 
 
+## 点冰淇淋[19]
+
+* scoop 冰淇淋勺
+* cone 甜筒
+* cup 杯装
+* wafer 威化
+* waffle cone 脆皮甜筒
+* flavor 口味
+* sorbet 雪酪
+
+A: Hi! How can I help you?  
+B: I’d like two scoops of ice cream.  
+A: Cone or cup?  
+B: What kind of cones do you have?  
+A: We have wafer and waffle cones.  
+B: I’ll have a waffle cone.  
+A: What ice cream flavors would you like?  
+B: Mint chocolate and strawberry. Do you have sorbets?  
+A: Yes, we do.  
+B: I’ll change my order then. I’d like lemon sorbet and mint chocolate.  
+A: OK. Give me a minute.  
+
+
 # 工作
 
 ## 安排会议[3]
