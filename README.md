@@ -75,6 +75,25 @@ B: I’ll change my order then. I’d like lemon sorbet and mint chocolate.
 A: OK. Give me a minute.  
 
 
+## 点咖啡[29]
+
+* latte 拿铁
+* Short 小杯
+* Tall 中杯
+* Grande 大杯
+* muffin 玛芬
+
+A: Hi! How can I help you?  
+B: I’d like a latte.  
+A: What size? We have three sizes: Short, Tall and Grande.  
+B: Grande, please.  
+A: Would you like anything else?  
+B: I’d like a chocolate muffin.  
+A: OK. The total is $5.95.  
+B: Here you go.  
+A: Please wait over there. Your order will be ready shortly.  
+
+
 # 工作
 
 ## 安排会议[3]
